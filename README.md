@@ -35,7 +35,7 @@ todo-cli-app/
 Installation & Setup
 ---------------------
 1️⃣ Clone the repository
-git clone https://github.com/kunmi14/github-portfolio.git
+git clone https://github.com/kunmi14/Command-Line-To-Do-List-App.git
 cd your-repo-name
 
 2️⃣ Install dependencies
