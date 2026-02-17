@@ -35,7 +35,7 @@ todo-cli-app/
 Installation & Setup
 ---------------------
 1️⃣ Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kunmi14/your-repo-name.git
 cd your-repo-name
 
 2️⃣ Install dependencies
