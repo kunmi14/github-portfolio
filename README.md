@@ -81,9 +81,3 @@ Backend development
 Automation scripts
 CLI tools
 DevOps utilities
-
-👨‍💻 Author
------------
-Olaoluwa
-Aspiring Backend Developer
-Focused on Python, automation, and web scraping
